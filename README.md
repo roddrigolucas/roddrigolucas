@@ -12,7 +12,7 @@
      <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" width="100" alt="Java">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap">
-    <img src=="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
+    <img src=="https://img.icons8.com/?size=100&id=54087&format=png&color=000000  width="100" alt="Bootstrap">
 </table>
 
 <div> 
